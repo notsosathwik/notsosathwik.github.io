@@ -1,6 +1,7 @@
 # notsosathwik.github.io
  
  --- LISENCE INFORMATION
+
 Thanks for downloading this template!
 
 Template Name: Personal
