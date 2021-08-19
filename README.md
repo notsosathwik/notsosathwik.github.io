@@ -1,6 +1,6 @@
 # notsosathwik.github.io
  
- --- LISENCE INFORMATION
+ --- LICENSE INFORMATION
 
 Thanks for downloading this template!
 
